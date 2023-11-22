@@ -14,7 +14,9 @@ While Stable Beluga 2 is a Llama2 70B model fine-tuned on an Orca-style dataset,
 For more information, please visit :
 
 AI Meta Llama: https://ai.meta.com/llama/
+
 Petals: https://github.com/bigscience-workshop/petals/tree/main
+
 Stable Beluga 2: https://huggingface.co/stabilityai/StableBeluga2
 
 
