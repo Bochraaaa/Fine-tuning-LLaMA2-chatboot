@@ -12,8 +12,9 @@ Training the model in float16 is not recommended and is known to produce NaN; th
 While Stable Beluga 2 is a Llama2 70B model fine-tuned on an Orca-style dataset, this code implements a Stable Beluga variant using distributed training based on Petals' public swarm.
 
 For more information, please visit :
-AI Meta Llama : https://ai.meta.com/llama/
-Petals : https://github.com/bigscience-workshop/petals/tree/main
+
+AI Meta Llama: https://ai.meta.com/llama/
+Petals: https://github.com/bigscience-workshop/petals/tree/main
 Stable Beluga 2: https://huggingface.co/stabilityai/StableBeluga2
 
 
